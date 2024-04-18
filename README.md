@@ -1,4 +1,4 @@
-# # Job Search Website
+# Job Search Website
 
 This project is a web application where job seekers can find job listings and employers can post job openings.
 
